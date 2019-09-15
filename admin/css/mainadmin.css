@@ -1,0 +1,32 @@
+/*  Navbar
+==================================== */
+#navbar{
+	font-size:100%; 
+	background-color:#1c1919;
+}
+		
+#navbar a:hover{
+	background-color: black;
+	font: white;
+}
+	
+#navbar a{
+	color:white;
+	font-size: 20px;
+	font-family: Roboto, sans-serif;
+}
+	
+#main
+	{
+		background-color: white;
+	}	
+.navbar .navbar-collapse {
+	text-align: center;
+	float: center;
+}
+		
+.navbar .navbar-nav {
+	display: inline-block;
+	float: right;
+	vertical-align: top;
+}
